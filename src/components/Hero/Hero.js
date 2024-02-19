@@ -5,7 +5,7 @@ import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 function openResumeNewTab(){
-  const url = 'https://jameswilliam0331.tiiny.site/';
+  const url = 'https://jameswilliam03031.tiiny.site/';
   window.open(url, '_blank');
 }
 const Hero = (props) => (
